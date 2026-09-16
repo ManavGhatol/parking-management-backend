@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+sqlalchemy
+pymysql
+pymongo[srv]
+motor
+python-jose[cryptography]
+passlib[bcrypt]
+python-dotenv
+pydantic
+python-multipart
